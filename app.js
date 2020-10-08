@@ -1,6 +1,3 @@
-const display = document.querySelector('.value');
-const status1 = document.querySelector('.status-1');
-const status2 = document.querySelector('.status-2');
 const logs = document.querySelector('.logs');
 const errorLogs = document.querySelector('.error-logs');
 const html = document.documentElement;
